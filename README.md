@@ -36,17 +36,12 @@ Nos meus momentos de lazer, gosto de assistir animes, séries, e estou sempre di
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5585999895919)
 
-WHATTSAPP: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-FACEBOOK: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-INSTAGRAM: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-TWITTER: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+<a href="https://api.whatsapp.com/send?phone=+5585999895919">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-✅ My skills <br /> <br />
-
-<span>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</span>
 
 ✅ My skills <br /> <br />
 
@@ -65,3 +60,8 @@ TWITTER: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=tw
 <span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </span>
+
+<br /> <br />
+
+
+
