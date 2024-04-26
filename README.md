@@ -37,15 +37,9 @@ Nos meus momentos de lazer, gosto de assistir animes, séries, e estou sempre di
 </a>
 
 
-<a href="https://wa.me/<+5585999895919>">
+<a href="https://wa.me/5585999895919">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a> <br />
-
-
-<a href="https://api.whatsapp.com/send?phone=+5585999917055">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a> <br />
-
 
 ✅ My skills <br /> <br />
 
